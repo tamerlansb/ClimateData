@@ -1,0 +1,17 @@
+﻿<Window x:Class="ClimateData.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClimateData"
+        mc:Ignorable="d"
+        Name="MyWin" SizeChanged="MyWin_SizeChanged" Title="MainWindow" Height="330" Width="661" >
+    <Window.Background>
+        <ImageBrush  ImageSource="C:\Users\Admin\Documents\Visual Studio 2015\Projects\ClimateData\ClimateData\world.jpg"  Stretch="Fill" TileMode="None"/>
+    </Window.Background>
+    <Grid Name="grid" >
+        <StackPanel Name="Panel"  HorizontalAlignment="Center" Height="auto" VerticalAlignment="Center"  Width="auto">
+            <Image x:Name="image" VerticalAlignment="Center"  HorizontalAlignment="Center" Stretch="Fill" />
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,16 @@
+c:\users\admin\documents\visual studio 2015\Projects\ClimateData\ClimateData\bin\Debug\ClimateData.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\ClimateData\ClimateData\bin\Debug\ClimateData.exe
+c:\users\admin\documents\visual studio 2015\Projects\ClimateData\ClimateData\bin\Debug\ClimateData.pdb
+c:\users\admin\documents\visual studio 2015\Projects\ClimateData\ClimateData\obj\Debug\ClimateData.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\ClimateData\ClimateData\obj\Debug\MainWindow.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\ClimateData\ClimateData\obj\Debug\App.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\ClimateData\ClimateData\obj\Debug\ClimateData_MarkupCompile.cache
+c:\users\admin\documents\visual studio 2015\Projects\ClimateData\ClimateData\obj\Debug\ClimateData_MarkupCompile.lref
+c:\users\admin\documents\visual studio 2015\Projects\ClimateData\ClimateData\obj\Debug\MainWindow.baml
+c:\users\admin\documents\visual studio 2015\Projects\ClimateData\ClimateData\obj\Debug\ClimateData.g.resources
+c:\users\admin\documents\visual studio 2015\Projects\ClimateData\ClimateData\obj\Debug\ClimateData.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\ClimateData\ClimateData\obj\Debug\ClimateData.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\ClimateData\ClimateData\obj\Debug\ClimateData.exe
+c:\users\admin\documents\visual studio 2015\Projects\ClimateData\ClimateData\obj\Debug\ClimateData.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ClimateData\ClimateData\bin\Debug\ParrallelPrograming(task1).dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ClimateData\ClimateData\bin\Debug\ParrallelPrograming(task1).pdb
